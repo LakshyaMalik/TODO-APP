@@ -8,13 +8,9 @@ export default function Box(props) {
         }
     )
     return (
-    <div className='p-3'>
+    <div className='p-3 m-3 '>
         {items}
-        { /*<Items/>
-        <Items/>
-        <Items/>
-        <Items/>
-    <Items/> */}
-    </div>
+        { }
+   </div>
     )
 }
